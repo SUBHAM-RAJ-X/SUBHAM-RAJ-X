@@ -69,15 +69,7 @@ _Aug 2025 – Oct 2025_
 - Object-Oriented Programming  
 - Computer Networks  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUBHAM-RAJ-X&theme=tokyonight" />
-</p>
-
----
+---- 
 
 ## 🌐 Connect With Me
 
