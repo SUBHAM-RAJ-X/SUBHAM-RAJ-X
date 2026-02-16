@@ -58,26 +58,9 @@ _Aug 2025 – Oct 2025_
 
 ## 📌 Featured Projects
 
-### 🔢 Calculator  
-Tech: HTML, CSS, JavaScript  
-- Responsive web-based calculator  
-- Event-driven logic implementation  
-- DOM manipulation & error handling  
-
-🔗 https://github.com/SUBHAM-RAJ-X/Calculator  
-
----
+### 🔢 Calculator 
 
 ### 💰 Expense Tracker  
-Tech: HTML, CSS, JavaScript, LocalStorage  
-- Track income & expenses  
-- Real-time balance calculation  
-- Persistent storage using LocalStorage  
-- CRUD operations implementation  
-
-🔗 https://github.com/SUBHAM-RAJ-X/expence-tracker  
-
----
 
 ## 📚 Core Computer Science Knowledge
 
