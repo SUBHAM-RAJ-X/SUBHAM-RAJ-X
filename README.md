@@ -62,6 +62,8 @@ _Aug 2025 – Oct 2025_
 
 ### 💰 Expense Tracker  
 
+### 📘 library
+
 ## 📚 Core Computer Science Knowledge
 
 - Data Structures & Algorithms  
